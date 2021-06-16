@@ -9,4 +9,11 @@ Adding new concepts
       
       To Learn about github
       Real time examples
+      
+      issues and conflicts
+      Master copy
+      
+ 
+      
+      
     
