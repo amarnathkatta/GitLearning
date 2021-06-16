@@ -13,6 +13,8 @@ Adding new concepts
       issues and conflicts
       Master copy
       
+      new feature added
+      
  
       
       
